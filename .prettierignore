@@ -1,0 +1,14 @@
+**/*.svg
+**/*.ico
+package.json
+/dist
+.DS_Store
+.eslintigrnore
+.gitignore
+.prettierignore
+LICENSE
+.eslintcache
+*.lock
+CNAME
+/build
+/public
